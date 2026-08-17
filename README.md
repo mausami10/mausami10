@@ -11,9 +11,11 @@ Data Scientist / ML Engineer based in London, UK. I build end-to-end machine lea
 - 📫 LinkedIn · mausamichaudhari92@gmail.com
 
 - 🛠️ Skills
+
 Languages & Tools: Python, SQL, Jupyter Notebook, Excel, HTML Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, EDA, Feature Engineering Machine Learning: KNN, Logistic Regression, Naive Bayes, Decision Trees, Random Forest, SVM, Lasso Regression, K-Means Clustering Model Evaluation: GridSearchCV, Cross-Validation, Precision/Recall/F1, R²
 
 - 📌 Featured Projects
+
 CreditWise — Loan Approval Prediction End-to-end supervised ML pipeline predicting loan approval. EDA, feature engineering, and comparison of Logistic Regression, KNN, and Naive Bayes — up to 88% accuracy.
 
 SmartCart — Customer Segmentation Unsupervised customer segmentation using PCA and K-Means/Agglomerative Clustering, identifying high-value vs. budget-conscious shopper segments to guide targeted marketing.
