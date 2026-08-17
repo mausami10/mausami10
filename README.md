@@ -1,9 +1,7 @@
 ## Hi, I'm Mausami 👋
 
 <!--
-**mausami10/mausami10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:Junior Data Scientist / ML Engineer based in London, UK. I build end-to-end machine learning pipelines — from data cleaning and EDA through to model evaluation — and I'm currently deepening my skills through further study in Data Science and AI Engineering.
+Data Scientist / ML Engineer based in London, UK. I build end-to-end machine learning pipelines — from data cleaning and EDA through to model evaluation — and I'm currently deepening my skills through further study in Data Science and AI Engineering.
 
 - 🎓 MSc International Business (Ulster University) · BSc Physics (VNSGU)
 - 📜 IBM Data Analytics Professional Certificate
