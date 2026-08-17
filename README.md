@@ -16,7 +16,7 @@ Languages & Tools: Python, SQL, Jupyter Notebook, Excel, HTML Data Analysis: Pan
 
 - 📌 Featured Projects
 
-CreditWise — Loan Approval Prediction End-to-end supervised ML pipeline predicting loan approval. EDA, feature engineering, and comparison of Logistic Regression, KNN, and Naive Bayes — up to 88% accuracy.
+CreditWise — Loan Approval Prediction End-to-end supervised ML pipeline predicting loan approval. EDA, feature engineering, and comparison of Logistic Regression, KNN, and Naive Bayes — up to 88% accuracy. link - https://github.com/mausami10/creditwise-loan-approval
 
 SmartCart — Customer Segmentation Unsupervised customer segmentation using PCA and K-Means/Agglomerative Clustering, identifying high-value vs. budget-conscious shopper segments to guide targeted marketing.
 
