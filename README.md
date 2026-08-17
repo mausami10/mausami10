@@ -1,6 +1,6 @@
 ## Hi, I'm Mausami 👋
 
-<!--
+
 Data Scientist / ML Engineer based in London, UK. I build end-to-end machine learning pipelines — from data cleaning and EDA through to model evaluation — and I'm currently deepening my skills through further study in Data Science and AI Engineering.
 
 - 🎓 MSc International Business (Ulster University) · BSc Physics (VNSGU)
@@ -19,4 +19,5 @@ CreditWise — Loan Approval Prediction End-to-end supervised ML pipeline predic
 SmartCart — Customer Segmentation Unsupervised customer segmentation using PCA and K-Means/Agglomerative Clustering, identifying high-value vs. budget-conscious shopper segments to guide targeted marketing.
 
 Open to opportunities — feel free to get in touch!!
--->
+
+
